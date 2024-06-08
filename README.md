@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephensonsn&label=Profile%20views&color=0e75b6&style=flat" alt="stephensonsn" /> </p>
 
-- 🔭 I’m currently working in Totvs;
+- 🔭 I’m currently working in HDI Seguros;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
