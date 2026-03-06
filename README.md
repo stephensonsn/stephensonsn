@@ -1,20 +1,78 @@
 <h1 align="center">Hi 👋, I'm Stephenson Oliveira</h1>
-<h3 align="center">I'm developer Progress Open Edge in Brazil</h3>
+<h3 align="center">Director of Finance & Technology | CTO Profile | HealthTech Builder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stephensonsn&label=Profile%20views&color=0e75b6&style=flat" alt="stephensonsn" /> </p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=stephensonsn&label=Profile%20views&color=0e75b6&style=flat" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=stephensonsn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
 
-- 🔭 I’m currently working in HDI Seguros;
+<p align="center">
+  <a href="https://www.linkedin.com/in/stephenson-silva/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Stephenson%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://dev.to/stephensonsn" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-stephensonsn-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a>
+</p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 👨‍💻 About Me
+
+- 💼 Director of **Finance & Technology at IMEP**, a multidisciplinary clinic focused on integrated care and innovation
+- 🚀 Building technology, processes, and strategic solutions to drive operational excellence and business growth
+- 🧠 Strong focus on **financial management, systems architecture, automation, and digital transformation**
+- ⚙️ Background in **Progress OpenEdge**, enterprise systems, integrations, and backend development
+- 🌱 Founder of ideas in progress, including **Transformação**, a future **HealthTech** focused on innovation and scalable impact in healthcare
+
+---
+
+### 💼 Core Skills
+
 <p align="left">
-<a href="https://dev.to/stephensonsn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="stephensonsn" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Technical%20Leadership-111111?style=for-the-badge&logo=github&logoColor=white" alt="Technical Leadership" />
+  <img src="https://img.shields.io/badge/Software%20Architecture-111111?style=for-the-badge&logo=github&logoColor=white" alt="Software Architecture" />
+  <img src="https://img.shields.io/badge/Digital%20Transformation-111111?style=for-the-badge&logo=github&logoColor=white" alt="Digital Transformation" />
+  <img src="https://img.shields.io/badge/Financial%20Management-111111?style=for-the-badge&logo=github&logoColor=white" alt="Financial Management" />
+  <img src="https://img.shields.io/badge/System%20Design-111111?style=for-the-badge&logo=github&logoColor=white" alt="System Design" />
+  <img src="https://img.shields.io/badge/API%20Development-111111?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Development" />
+  <img src="https://img.shields.io/badge/Backend%20Engineering-111111?style=for-the-badge&logo=.net&logoColor=white" alt="Backend Engineering" />
+  <img src="https://img.shields.io/badge/HealthTech%20Innovation-111111?style=for-the-badge&logo=github&logoColor=white" alt="HealthTech Innovation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+---
 
-<a href="https://www.progress.com/" target="_blank"> <img src="https://camo.githubusercontent.com/0649005019b0545804b70f59c799b80dc893955a509ed8508a0e02f2bfb46249/68747470733a2f2f7a76672e67616c6c65727963646e2e76736173736574732e696f2f657874656e73696f6e732f7a76672f7673636f64652d6f6561626c2f302e322e322f313437363335353136373034392f4d6963726f736f66742e56697375616c53747564696f2e53657276696365732e49636f6e732e44656661756c74" alt="Progress" width="40" height="40"/> </a>  
-  
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/stephenson-silva/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://dev.to/stephensonsn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" />
+  </a>
 </p>
 
+---
+
+### 🛠 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,bootstrap,cs,css,dotnet,git,html,js,linux,mysql,postman" alt="Tech Stack" />
+</p>
+
+<p align="left">
+  <a href="https://www.progress.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Progress%20OpenEdge-5E2CED?style=for-the-badge&logo=progress&logoColor=white" alt="Progress OpenEdge" />
+  </a>
+</p>
+
+---
+
+### 📌 Professional Focus
+
+```text
+Finance & Technology Leadership | Digital Transformation | HealthTech Vision |
+Software Architecture | Enterprise Systems | Progress OpenEdge |
+Automation | API Integrations | Operational Efficiency | Innovation
