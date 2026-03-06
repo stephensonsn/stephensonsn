@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/stephenson-silva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Stephenson%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://dev.to/stephensonsn" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-stephensonsn-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-  </a>
 </p>
 
 ---
