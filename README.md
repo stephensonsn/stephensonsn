@@ -24,7 +24,7 @@
 - 🚀 Driving digital transformation through **technology, automation, AI, and financial intelligence**
 - 🧠 Bridging **business vision and technical execution** to build scalable, high-impact solutions
 - ⚙️ Background in **Progress OpenEdge**, enterprise systems, backend engineering, integrations, and software architecture
-- 🌱 Building **Transformação**, a future **HealthTech** designed for innovation and sustainable growth
+- 🌱 Building **Transformation**, a future **HealthTech** designed for innovation and sustainable growth
 
 ### 💼 Executive & Core Skills
 
